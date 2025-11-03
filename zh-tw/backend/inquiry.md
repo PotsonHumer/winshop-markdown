@@ -1,0 +1,42 @@
+# <Anchor id="inquiry" text="詢價單管理" />
+
+詢價單資料條列式顯示，能夠查看詳細內容，也可以刪除資料。
+
+詢價單管理截圖 |
+--|
+![詢價單管理截圖](/images/manual/inquiry/inquiry.png) |
+
+
+### 各號碼說明
+
+1.  **<Anchor id="inquiry_block_1-1" text="開啟搜尋條件表單" ordered sub />**  
+    點擊此按鈕，將搜尋條件表單展開。可依照關鍵字、來源IP、「搜尋起始訂單時間」和「搜尋結束訂單時間」等條件來進行搜尋資料。
+
+    開啟搜尋條件表單 |
+    --|
+    ![開啟搜尋條件表單](/images/manual/inquiry/inquiry_search.png) |
+
+    ----
+
+2.  **<Anchor id="inquiry_block_1-2" text="欄位選項" ordered sub />**  
+    點擊此按鈕，開啟欄位選項下拉選單，可自行選擇要顯示在列表的資料欄位。
+
+    選擇要顯示的欄位選項 |
+    --|
+    ![開啟欄位選項下拉選單](/images/manual/inquiry/inquiry_item.png) |
+
+    ----
+
+3.  **<Anchor id="inquiry_block_1-3" text="詢價單資料列表" ordered sub />**  
+    條列式顯示詢價單資料。點擊「詳細」按鈕可以進入詢價單詳細管理頁面；點擊「刪除」按鈕能夠刪除所選詢價單資料。
+
+    詢價單資料列表快速按鈕 |
+    --|
+    ![詢價單資料列表快速按鈕](/images/manual/inquiry/inquiry_strip.png) |
+
+    ----
+
+4.  **<Anchor id="inquiry_block_1-4" text="群組刪除" ordered sub />**  
+    選取多筆詢價單資料後點擊此按鈕，可以一次刪除勾選的所有資料。
+
+<Footer />
