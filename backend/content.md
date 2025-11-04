@@ -54,7 +54,7 @@
 
     啟用為綠色打勾，停用為紅色禁止 icon |
     --|
-    ![顯示是否啟用]](/winshop-markdown/images/manual/content/content_list_status.png) |
+    ![顯示是否啟用](/winshop-markdown/images/manual/content/content_list_status.png) |
 
     ----
 
