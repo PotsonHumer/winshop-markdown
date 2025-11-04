@@ -1,4 +1,4 @@
-# <Anchor id="banner" text="橫幅廣告管理" />
+# 橫幅廣告管理
 
 可依照不同資料模組，分別建立一或多個橫幅廣告。
 
@@ -16,7 +16,7 @@
 
 ### 各號碼說明
 
-1.  **<Anchor id="banner_block_1-1" text="建立橫幅廣告" ordered sub />**
+1.  **<h2>建立橫幅廣告</h2>**
 
     點擊此按鈕，進入建立橫幅廣告介面。
 
@@ -61,17 +61,17 @@
 
     ----
 
-2.  **<Anchor id="banner_block_1-2" text="模組名稱" ordered sub />**  
+2.  **<h2>模組名稱</h2>**  
     顯示所選的資料模組名稱（當前所在）。
 
     ----
 
-3.  **<Anchor id="banner_block_1-3" text="橫幅廣告抬頭" ordered sub />**  
+3.  **<h2>橫幅廣告抬頭</h2>**  
     顯示設定的橫幅 TITLE，在橫幅內容的 TITLE 欄位設定（[設定畫面截圖 ─ 號碼2](#banner_block_1-1)）。
 
     ----
 
-4.  **<Anchor id="banner_block_1-4" text="廣告圖片" ordered sub />**  
+4.  **<h2>廣告圖片</h2>**  
     <ModuleCheck name="banner_video" isActive={false}>
     顯示設定的廣告圖片。
     </ModuleCheck>
@@ -82,17 +82,17 @@
 
     ----
 
-5.  **<Anchor id="banner_block_1-5" text="啟用開關" ordered sub />**  
+5.  **<h2>啟用開關</h2>**  
     可啟用或停用此橫幅廣告。
 
     ----
 
-6.  **<Anchor id="banner_block_1-6" text="更新橫幅廣告" ordered sub />**  
+6.  **<h2>更新橫幅廣告</h2>**  
     點擊此按鈕，會進入更新橫幅廣告頁面，可修改橫幅的各項設定。
 
     ----
     
-7.  **<Anchor id="banner_block_1-7" text="刪除" ordered sub />**  
+7.  **<h2>刪除</h2>**  
     點擊此按鈕，刪除整個橫幅廣告區塊。
 
 <Footer />

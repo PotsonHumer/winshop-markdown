@@ -1,6 +1,6 @@
 # 首頁管理
 
-## <Anchor id="home" text="設定SEO" />
+## 設定SEO
 
 設定網站首頁SEO相關資料。
 
@@ -11,7 +11,7 @@
 
 ### 各號碼說明
 
-1.  **<Anchor id="home_block_1-1" text="網頁標題" ordered sub />**  
+1.  **<h2>網頁標題</h2>**  
     設定網站的標題，標題後方會自動加上網站名稱「- WINSHOP」。
 
     顯示設定的網頁標題 |
@@ -20,12 +20,12 @@
 
     ----
 
-2.  **<Anchor id="home_block_1-2" text="關鍵字" ordered sub />**  
+2.  **<h2>關鍵字</h2>**  
     設定網站首頁的關鍵字。
 
     ----
 
-3.  **<Anchor id="home_block_1-3" text="描述" ordered sub />**  
+3.  **<h2>描述</h2>**  
     設定網站首頁的描述，會顯示在搜尋網站的結果中<small>(見下圖範例)</small>。
 
     搜尋網站時，描述顯示位置範例 |

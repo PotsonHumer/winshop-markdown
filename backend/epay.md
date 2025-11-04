@@ -1,6 +1,6 @@
 # 金流管理
 
-## <Anchor id="epay_setup" text="金流設定" />
+## 金流設定
 
 建立金流設定。
 
@@ -11,7 +11,7 @@
 
 ### 各號碼說明
 
-1.  **<Anchor id="epay_block_1-1" text="選擇金流系統" ordered sub />**  
+1.  **<h2>選擇金流系統</h2>**  
     開啟下拉選單，選擇金流系統。
 
     開啟金流系統選單 |
@@ -20,22 +20,22 @@
 
     ----
 
-2.  **<Anchor id="epay_block_1-2" text="刪除" ordered sub />**  
+2.  **<h2>刪除</h2>**  
     點擊此按鈕，將刪除整個金流設定區塊。
 
     ----
 
-3.  **<Anchor id="epay_block_1-3" text="增加" ordered sub />**  
+3.  **<h2>增加</h2>**  
     點擊此按鈕，可以增加整個金流設定區塊。
 
     ----
 
-4.  **<Anchor id="epay_block_1-4" text="付款管理" ordered sub />**  
+4.  **<h2>付款管理</h2>**  
     點擊此按鈕，會跳轉到付款管理頁面。[按此前往付款管理頁面](#epay_pay)
 
 ----
 
-## <Anchor id="epay_pay" text="付款管理" />
+## 付款管理
 
 建立並設定付款方式。
 
@@ -46,22 +46,22 @@
 
 ### 各號碼說明
 
-1.  **<Anchor id="epay_block_2-1" text="增加付款選項" ordered sub />**  
+1.  **<h2>增加付款選項</h2>**  
     點擊此按鈕，可以增加自訂付款方式的區塊。
 
     ----
 
-2.  **<Anchor id="epay_block_2-2" text="自訂付款方式名稱" ordered sub />**  
+2.  **<h2>自訂付款方式名稱</h2>**  
     設定付款方式的名稱。
 
     ----
 
-3.  **<Anchor id="epay_block_2-3" text="刪除" ordered sub />**  
+3.  **<h2>刪除</h2>**  
     點擊此按鈕，將刪除整個自訂付款方式區塊。
 
     ----
 
-4.  **<Anchor id="epay_block_2-4" text="啟用開關" ordered sub />**  
+4.  **<h2>啟用開關</h2>**  
     設定啟用或停用此付款方式。
 
 <Footer />

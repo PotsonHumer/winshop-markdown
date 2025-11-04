@@ -1,6 +1,6 @@
 # 網站設定
 
-## <Anchor id="basic" text="基本設置" />
+## 基本設置
 
 ### <Icon icon="fa fa-info-circle" text="注意事項" color="info" />
 
@@ -77,7 +77,7 @@
 
 ----
 
-## <Anchor id="menu_top" text="主選單" />
+## 主選單
 
 網站主選單設定介面，可自由設定選單項目，各語系可作不同設定。
 
@@ -255,13 +255,13 @@
 
 ----
 
-## <Anchor id="menu_bottom" text="頁尾選單" />
+## 頁尾選單
 
 頁尾選單設定方法同主選單，[按此前往說明](#menu_top)
 
 ----
 
-## <Anchor id="contacts" text="聯絡人資訊欄位管理" />
+## 聯絡人資訊欄位管理
 
 管理網站各類表單欄位，可自由調整欄位名稱、排序、類型、是否必填 等... 功能。
 
@@ -271,17 +271,17 @@
 
 ### 各號碼說明
 
-1.  **<Anchor id="block_2-1" text="增加設定" ordered sub />**  
+1.  **<h2>增加設定</h2>**  
     增加一項聯絡人資訊欄位表單。
 
     ----
 
-2.  **<Anchor id="block_2-2" text="表單標題" ordered sub />**  
+2.  **<h2>表單標題</h2>**  
     顯示欄位表單標題，滑鼠按住標題後移動可更改欄位排序。
 
     ----
 
-3.  **<Anchor id="block_2-3" text="欄位類別" ordered sub />**  
+3.  **<h2>欄位類別</h2>**  
     設定欄位類別；系統將以此類別決定顯示的欄位表單格式。
 
     聯絡人資訊欄位類別截圖 |
@@ -290,17 +290,17 @@
 
     ----
 
-4.  **<Anchor id="block_2-4" text="欄位名稱" ordered sub />**  
+4.  **<h2>欄位名稱</h2>**  
     設定欄位顯示名稱。
 
     ----
 
-5.  **<Anchor id="block_2-5" text="所屬模組" ordered sub />**  
+5.  **<h2>所屬模組</h2>**  
     設定欄位顯示於哪項模組表單下，可複選。
 
     ---
 
-6.  **<Anchor id="block_2-6" text="欄位定義" ordered sub />**  
+6.  **<h2>欄位定義</h2>**  
     設定欄位作用，供系統確認欄位的意義；例：設定欄位為 "會員 email"，則此欄位紀錄的資料會用於發送信件給予會員。<small>(見下圖)</small>
 
     聯絡人資訊欄位定義截圖 |
@@ -309,17 +309,17 @@
 
     ----
 
-7.  **<Anchor id="block_2-7" text="必填切換開關" ordered sub />**  
+7.  **<h2>必填切換開關</h2>**  
     設定欄位是否必填。
 
     ---
 
-8.  **<Anchor id="block_2-8" text="啟用切換開關" ordered sub />**  
+8.  **<h2>啟用切換開關</h2>**  
     設定欄位是否顯示。
 
     ---
 
-9.  **<Anchor id="block_2-9" text="表單顯示切換" ordered sub />**  
+9.  **<h2>表單顯示切換</h2>**  
     因欄位表單佔用較多畫面，不容易利用滑鼠拖移排序，故滑鼠點擊此按鈕後，將隱藏表單內容方便排序。<small>(見下圖)</small>
 
     表單顯示切換截圖 |
@@ -328,7 +328,7 @@
 
     ---
 
-10.  **<Anchor id="block_2-10" text="預設欄位" ordered sub />**  
+10.  **<h2>預設欄位</h2>**  
     系統已預設幾組可快速設定的欄位組合，滑鼠點擊即可自動填入資料於欄位表單。<small>(見下圖)</small>
 
     預設欄位截圖 |
@@ -337,27 +337,27 @@
 
     ---
 
-11.  **<Anchor id="block_2-11" text="刪除" ordered sub />**  
+11.  **<h2>刪除</h2>**  
     點擊此按鈕將刪除目前區塊的欄位表單設定。
 
     ----
 
-12.  **<Anchor id="block_2-12" text="儲存" ordered sub />**  
+12.  **<h2>儲存</h2>**  
     欄位表單資料填寫完畢後點擊此處儲存。
 
     ----
 
-13.  **<Anchor id="block_2-13" text="增加設定" ordered sub />**  
+13.  **<h2>增加設定</h2>**  
     增加欄位設定項目。
 
     ----
 
-14.  **<Anchor id="block_2-14" text="全部表單顯示切換" ordered sub />**  
+14.  **<h2>全部表單顯示切換</h2>**  
     功能同[表單顯示切換](#block_2-9)，此按鈕可切換全部欄位表單顯示。
 
 ----
 
-## <Anchor id="redirect" text="重新導向管理" />
+## 重新導向管理
 
 設定網址路徑自動導向至目標網址。
 
@@ -367,39 +367,39 @@
 
 ### 各號碼說明
 
-1.  **<Anchor id="block_3-1" text="增加" ordered sub />**  
+1.  **<h2>增加</h2>**  
     增加一項重新導向設定。
 
     ----
 
-2.  **<Anchor id="block_3-2" text="導向類型" ordered sub />**  
+2.  **<h2>導向類型</h2>**  
     設定使用 301 轉址或 302 轉址，有關說明請參考以下文章：  
     <Blank href="https://zh.wikipedia.org/wiki/HTTP_301" text="HTTP 301 維基百科" /><br />
     <Blank href="https://zh.wikipedia.org/wiki/HTTP_302" text="HTTP 302 維基百科" />
 
     ----
 
-3.  **<Anchor id="block_3-3" text="啟用切換開關" ordered sub />**  
+3.  **<h2>啟用切換開關</h2>**  
     啟用或關閉轉址。
 
     ----
 
-4.  **<Anchor id="block_3-4" text="來源網址" ordered sub />**  
+4.  **<h2>來源網址</h2>**  
     指定要"被"導向的網址
 
     ----
 
-5.  **<Anchor id="block_3-5" text="導向網址" ordered sub />**  
+5.  **<h2>導向網址</h2>**  
     指定導向目標的網址
 
     ----
 
-6.  **<Anchor id="block_3-6" text="刪除" ordered sub />**  
+6.  **<h2>刪除</h2>**  
     點擊此按鈕將刪除目前區塊的轉址設定。
 
     ----
 
-7.  **<Anchor id="block_3-7" text="儲存" ordered sub />**  
+7.  **<h2>儲存</h2>**  
     轉址資料填寫完畢後點擊此處儲存。
 
 <Footer />
