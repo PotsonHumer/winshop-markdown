@@ -1,3 +1,9 @@
+<style>
+table th {
+  white-space: nowrap;
+}
+</style>
+
 # 商品規格群組管理
 
 建立商品規格群組設定。

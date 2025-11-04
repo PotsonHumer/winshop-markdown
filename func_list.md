@@ -1,3 +1,9 @@
+<style>
+table th {
+  white-space: nowrap;
+}
+</style>
+
 # 功能清單手冊
 
 系統版本：v1.4.2-alpha

@@ -1,3 +1,9 @@
+<style>
+table th {
+  white-space: nowrap;
+}
+</style>
+
 # 金流管理
 
 ## 金流設定

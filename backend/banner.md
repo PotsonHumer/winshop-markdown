@@ -1,3 +1,9 @@
+<style>
+table th {
+  white-space: nowrap;
+}
+</style>
+
 # 橫幅廣告管理
 
 可依照不同資料模組，分別建立一或多個橫幅廣告。

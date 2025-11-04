@@ -1,3 +1,9 @@
+<style>
+table th {
+  white-space: nowrap;
+}
+</style>
+
 # 折價管理
 
 建立折價活動設定。

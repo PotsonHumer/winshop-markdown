@@ -1,3 +1,9 @@
+<style>
+table th {
+  white-space: nowrap;
+}
+</style>
+
 # 檔案總管
 
 **如果想要更換檔案，直接上傳相同檔名的檔案可覆蓋原有的檔案，即完成檔案更換。**

@@ -1,3 +1,9 @@
+<style>
+table th {
+  white-space: nowrap;
+}
+</style>
+
 # 訂單管理
 
 訂單資料條列式顯示，可以針對訂單進行更改狀態、查看詳細資料和匯出 Excel 等動作。

@@ -1,3 +1,9 @@
+<style>
+table th {
+  white-space: nowrap;
+}
+</style>
+
 # 聯絡我們管理
 
 聯絡我們資料條列式顯示，能夠查看詳細內容，也可以刪除資料。

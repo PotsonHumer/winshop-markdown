@@ -1,3 +1,9 @@
+<style>
+table th {
+  white-space: nowrap;
+}
+</style>
+
 # 詢價單管理
 
 詢價單資料條列式顯示，能夠查看詳細內容，也可以刪除資料。
