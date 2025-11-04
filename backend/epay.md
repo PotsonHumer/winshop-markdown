@@ -4,9 +4,9 @@
 
 建立金流設定。
 
-金流設定截圖 |
---|
-![金流設定截圖](/winshop-markdown/images/manual/epay/epay_setup.png) |
+| 金流設定截圖 |
+|--|
+| ![金流設定截圖](/winshop-markdown/images/manual/epay/epay_setup.png) |
 
 
 ### 各號碼說明
@@ -14,9 +14,9 @@
 1.  **選擇金流系統**  
     開啟下拉選單，選擇金流系統。
 
-    開啟金流系統選單 |
-    --|
-    ![開啟金流系統選單](/winshop-markdown/images/manual/epay/epay_setup_system.png) |
+    | 開啟金流系統選單 |
+    |--|
+    | ![開啟金流系統選單](/winshop-markdown/images/manual/epay/epay_setup_system.png) |
 
     ----
 
@@ -39,9 +39,9 @@
 
 建立並設定付款方式。
 
-付款管理截圖 |
---|
-![付款管理截圖](/winshop-markdown/images/manual/epay/epay_pay.png) |
+| 付款管理截圖 |
+|--|
+| ![付款管理截圖](/winshop-markdown/images/manual/epay/epay_pay.png) |
 
 
 ### 各號碼說明
@@ -63,5 +63,3 @@
 
 1.  **啟用開關**  
     設定啟用或停用此付款方式。
-
-<Footer />

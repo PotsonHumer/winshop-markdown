@@ -4,9 +4,9 @@
 
 新增管理員介面，可自行新增多個管理員，並且賦予權限。
 
-新增管理員表單截圖 |
---|
-![新增管理員表單截圖](/winshop-markdown/images/manual/admin/admin_add.png) |
+| 新增管理員表單截圖 |
+|--|
+| ![新增管理員表單截圖](/winshop-markdown/images/manual/admin/admin_add.png) |
 
 
 ### 各號碼說明
@@ -44,9 +44,9 @@
 1.  **設定權限群組**  
     展開下拉選單，選擇已建立的權限群組，即可套用該權限群組的相關權限設定。
 
-    權限群組展開下拉選單 |
-    --|
-    ![展開權限群組列表](/winshop-markdown/images/manual/admin/admin_add_permission.png) |
+    | 權限群組展開下拉選單 |
+    |--|
+    | ![展開權限群組列表](/winshop-markdown/images/manual/admin/admin_add_permission.png) |
 
     ----
 
@@ -58,9 +58,9 @@
 1.  **增加權限群組**  
     點擊此按鈕，會增加設定權限群組的下拉欄位，即可設定多組權限。
 
-    可增加多組權限群組 |
-    --|
-    ![增加多組權限群組](/winshop-markdown/images/manual/admin/admin_add_addgroup.png) |
+    | 可增加多組權限群組 |
+    |--|
+    | ![增加多組權限群組](/winshop-markdown/images/manual/admin/admin_add_addgroup.png) |
 
 ----
 
@@ -68,9 +68,9 @@
 
 將已有的全部管理員條列顯示。
 
-管理員列表截圖 |
---|
-![管理員列表截圖](/winshop-markdown/images/manual/admin/admin_list.png) |
+| 管理員列表截圖 |
+|--|
+| ![管理員列表截圖](/winshop-markdown/images/manual/admin/admin_list.png) |
 
 
 ### 各號碼說明
@@ -122,15 +122,15 @@
 
 *  首先選擇信箱類別
 
-聯絡信箱選擇類別截圖 |
---|
-![聯絡信箱選擇截圖](/winshop-markdown/images/manual/admin/admin_mailbox.png) |
+| 聯絡信箱選擇類別截圖 |
+|--|
+| ![聯絡信箱選擇截圖](/winshop-markdown/images/manual/admin/admin_mailbox.png) |
 
 *  選擇信箱類別後，即可針對此信箱類別做相關設定。
 
-針對信箱類別設定 |
---|
-![信箱類別設定](/winshop-markdown/images/manual/admin/admin_mailbox_setup.png) |
+| 針對信箱類別設定 |
+|--|
+| ![信箱類別設定](/winshop-markdown/images/manual/admin/admin_mailbox_setup.png) |
 
 
 ### 各號碼說明

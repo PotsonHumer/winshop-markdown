@@ -2,10 +2,10 @@
 
 建立贈品設定。
 
-贈品管理截圖 |
---|
-![贈品管理截圖上半部](/winshop-markdown/images/manual/gift/gift_top.png) |
-![贈品管理截圖下半部](/winshop-markdown/images/manual/gift/gift_bottom.png) |
+| 贈品管理截圖 |
+|--|
+| ![贈品管理截圖上半部](/winshop-markdown/images/manual/gift/gift_top.png) |
+| ![贈品管理截圖下半部](/winshop-markdown/images/manual/gift/gift_bottom.png) |
 
 ### 各號碼說明
 
@@ -32,9 +32,9 @@
 1.  **賦予商品**  
     設定此贈品適用於哪些商品。透過下拉選單選擇商品，也可直接在輸入框中進行商品搜尋。
 
-    賦予商品選擇 |
-    --|
-    ![賦予商品選擇截圖](/winshop-markdown/images/manual/gift/gift_give.png) |
+    | 賦予商品選擇 |
+    |--|
+    | ![賦予商品選擇截圖](/winshop-markdown/images/manual/gift/gift_give.png) |
 
     ----
 
