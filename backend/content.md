@@ -6,7 +6,7 @@
 
 內容列表樹狀截圖 |
 --|
-![內容列表樹狀截圖](/images/manual/content/content_list.png) |
+![內容列表樹狀截圖](winshop-markdown/images/manual/content/content_list.png) |
 
 
 ### 各號碼說明
@@ -21,7 +21,7 @@
 
     點擊按鈕後，會在該分類下層列表的最後增加一個「新項目」。可點擊編輯按鈕進入編輯介面，或是點擊刪除按鈕刪除項目。 |
     --|
-    ![新增的子項目位於列表最後](/images/manual/content/content_list_add.png) |
+    ![新增的子項目位於列表最後](winshop-markdown/images/manual/content/content_list_add.png) |
 
     ----
 
@@ -35,7 +35,7 @@
 
     拖曳時底色為藍色，則可移動 | 拖曳時底色為紅色，代表不可移動至此位置 |
     --|--|
-    ![拖曳項目可移動](/images/manual/content/content_list_drag.png) | ![拖曳項目不可移動](/images/manual/content/content_list_notdrag.png) |
+    ![拖曳項目可移動](winshop-markdown/images/manual/content/content_list_drag.png) | ![拖曳項目不可移動](winshop-markdown/images/manual/content/content_list_notdrag.png) |
 
     ----
 
@@ -54,7 +54,7 @@
 
     啟用為綠色打勾，停用為紅色禁止 icon |
     --|
-    ![顯示是否啟用]](/images/manual/content/content_list_status.png) |
+    ![顯示是否啟用]](winshop-markdown/images/manual/content/content_list_status.png) |
 
     ----
 
@@ -63,7 +63,7 @@
 
     進入商品編輯介面，可自行設定庫存數量 |
     --|
-    ![編輯介面中的庫存欄位](/images/manual/content/content_edit_stock.png) |
+    ![編輯介面中的庫存欄位](winshop-markdown/images/manual/content/content_edit_stock.png) |
 
     ----
 
@@ -77,7 +77,7 @@
     
     進入編輯介面，可啟用或停用最新標記 |
     --|
-    ![編輯介面中的最新標記啟用開關](/images/manual/content/content_edit_latest.png) |
+    ![編輯介面中的最新標記啟用開關](winshop-markdown/images/manual/content/content_edit_latest.png) |
 
     ----
 
@@ -86,7 +86,7 @@
 
     進入編輯介面，可啟用或停用熱門標記 |
     --|
-    ![編輯介面中的熱門標記啟用開關](/images/manual/content/content_edit_hot.png) |
+    ![編輯介面中的熱門標記啟用開關](winshop-markdown/images/manual/content/content_edit_hot.png) |
     
     ----
 
@@ -95,7 +95,7 @@
 
     進入商品編輯介面，可啟用或停用促銷標記 |
     --|
-    ![編輯介面中的促銷標記啟用開關](/images/manual/content/content_edit_sale.png) |
+    ![編輯介面中的促銷標記啟用開關](winshop-markdown/images/manual/content/content_edit_sale.png) |
 
     ----
 
@@ -110,7 +110,7 @@
 
 分別說明各個頁籤 |
 --|
-![編輯介面的頁籤](/images/manual/content/content_edit_tab.png) |
+![編輯介面的頁籤](winshop-markdown/images/manual/content/content_edit_tab.png) |
 
 ### 各號碼說明
 
@@ -119,8 +119,8 @@
 
     基本資料頁籤截圖 |
     --|
-    ![編輯介面的基本設定頁籤上半部](/images/manual/content/content_edit_setup_top.png) |
-    ![編輯介面的基本設定頁籤下半部](/images/manual/content/content_edit_setup_bottom.png) |
+    ![編輯介面的基本設定頁籤上半部](winshop-markdown/images/manual/content/content_edit_setup_top.png) |
+    ![編輯介面的基本設定頁籤下半部](winshop-markdown/images/manual/content/content_edit_setup_bottom.png) |
 
     各號碼說明：<small>(型號、價格、折價、運費、庫存、詢價商品開關、促銷標記開關僅限商品內容，其餘內容資料沒有這些欄位)</small>
 
@@ -156,7 +156,7 @@
 
     SEO 設定頁籤截圖 |
     --|
-    ![編輯介面的 SEO 設定頁籤](/images/manual/content/content_edit_seo.png) |
+    ![編輯介面的 SEO 設定頁籤](winshop-markdown/images/manual/content/content_edit_seo.png) |
 
     各號碼說明：
 
@@ -174,7 +174,7 @@
 
     運費相關設定頁籤截圖 |
     --|
-    ![編輯介面的運費相關設定頁籤](/images/manual/content/content_edit_ship.png) |
+    ![編輯介面的運費相關設定頁籤](winshop-markdown/images/manual/content/content_edit_ship.png) |
 
     各號碼說明：
 
@@ -190,7 +190,7 @@
 
     設定圖片頁籤截圖 |
     --|
-    ![編輯介面的設定圖片頁籤](/images/manual/content/content_edit_image.png) |
+    ![編輯介面的設定圖片頁籤](winshop-markdown/images/manual/content/content_edit_image.png) |
 
     各號碼說明：
 
@@ -217,7 +217,7 @@
 
     設定附件頁籤截圖 |
     --|
-    ![編輯介面的設定附件頁籤](/images/manual/content/content_edit_attach.png) |
+    ![編輯介面的設定附件頁籤](winshop-markdown/images/manual/content/content_edit_attach.png) |
 
     各號碼說明：
 
@@ -237,7 +237,7 @@
 
     設定描述頁籤截圖 |
     --|
-    ![編輯介面的設定描述頁籤](/images/manual/content/content_edit_description.png) |
+    ![編輯介面的設定描述頁籤](winshop-markdown/images/manual/content/content_edit_description.png) |
 
     各號碼說明：
 
@@ -255,7 +255,7 @@
 
     關聯商品頁籤截圖 |
     --|
-    ![編輯介面的關聯商品頁籤](/images/manual/content/content_edit_relate.png) |
+    ![編輯介面的關聯商品頁籤](winshop-markdown/images/manual/content/content_edit_relate.png) |
 
     各號碼說明：
 
@@ -274,7 +274,7 @@
 
 分別說明各個頁籤 |
 --|
-![商品規格搭配管理介面的頁籤](/images/manual/content/content_spec_tab.png) |
+![商品規格搭配管理介面的頁籤](winshop-markdown/images/manual/content/content_spec_tab.png) |
 
 ### 各號碼說明
 
@@ -283,7 +283,7 @@
 
     啟用規格項目設定頁籤截圖 |
     --|
-    ![商品規格搭配管理介面的啟用規格項目設定頁籤](/images/manual/content/content_spec_enable.png) |
+    ![商品規格搭配管理介面的啟用規格項目設定頁籤](winshop-markdown/images/manual/content/content_spec_enable.png) |
 
     各號碼說明：
 
@@ -305,7 +305,7 @@
 
     建立規格搭配頁籤截圖 |
     --|
-    ![商品規格搭配管理介面的建立規格搭配頁籤](/images/manual/content/content_spec_match.png) |
+    ![商品規格搭配管理介面的建立規格搭配頁籤](winshop-markdown/images/manual/content/content_spec_match.png) |
 
     各號碼說明：
 
@@ -329,7 +329,7 @@
 
     規格搭配設定頁籤截圖 |
     --|
-    ![商品規格搭配管理介面的規格搭配設定頁籤](/images/manual/content/content_spec_setup.png) |
+    ![商品規格搭配管理介面的規格搭配設定頁籤](winshop-markdown/images/manual/content/content_spec_setup.png) |
 
     將已建立並存檔的規格搭配項目列出來，並可以針對每一筆規格搭配進行修改和刪除。
 

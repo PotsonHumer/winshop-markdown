@@ -2,7 +2,7 @@
 
 後台首頁截圖 |
 --|
-![後台首頁截圖](/images/manual/backend_home.png) |
+![後台首頁截圖](winshop-markdown/images/manual/backend_home.png) |
 
 ## 各按鈕 / 區塊號碼說明
 
@@ -16,7 +16,7 @@
 
     展開畫面 | 縮小畫面
     --|--
-    ![展開畫面](/images/manual/menu_expand.png) | ![縮小畫面](/images/manual/menu_narrow.png)
+    ![展開畫面](winshop-markdown/images/manual/menu_expand.png) | ![縮小畫面](winshop-markdown/images/manual/menu_narrow.png)
 
     -----
 
@@ -42,7 +42,7 @@
 
     即時通知展開截圖 |
     --|
-    ![即時通知展開截圖](/images/manual/backend_notify.png) |
+    ![即時通知展開截圖](winshop-markdown/images/manual/backend_notify.png) |
 
     -----
 
@@ -51,7 +51,7 @@
 
     展開面板截圖 |
     --|
-    ![展開面板截圖](/images/manual/backend_admin.png) |
+    ![展開面板截圖](winshop-markdown/images/manual/backend_admin.png) |
 
     -----
 
@@ -63,6 +63,6 @@
 
     訊息區塊互動按鈕 |
     --|
-    ![訊息區塊互動按鈕](/images/manual/backend_info.gif) |
+    ![訊息區塊互動按鈕](winshop-markdown/images/manual/backend_info.gif) |
 
 <Footer />

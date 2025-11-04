@@ -10,7 +10,7 @@
 
 檔案總管截圖 |
 --|
-![檔案總管截圖](/images/manual/filemanager/filemanager.png) |
+![檔案總管截圖](winshop-markdown/images/manual/filemanager/filemanager.png) |
 
 ### 各號碼說明
 
@@ -19,7 +19,7 @@
 
     點擊選取全部檔案 |
     --|
-    ![點擊選取全部檔案](/images/manual/filemanager/filemanager_select.png) |
+    ![點擊選取全部檔案](winshop-markdown/images/manual/filemanager/filemanager_select.png) |
 
     ----
 
@@ -34,13 +34,13 @@
 
     檔案上傳頁面截圖 |
     --|
-    ![檔案上傳頁面截圖](/images/manual/filemanager/filemanager_upload.png) |
+    ![檔案上傳頁面截圖](winshop-markdown/images/manual/filemanager/filemanager_upload.png) |
 
     *  在檔案上傳頁面中，可同時選擇多個檔案上傳。<Icon icon="fa fa-exclamation-triangle" text="但總檔案大小不可超過 20MB" color="warning" />。
 
     選擇多個檔案 |
     --|
-    ![選擇多個檔案](/images/manual/filemanager/filemanager_upload_files.png) |
+    ![選擇多個檔案](winshop-markdown/images/manual/filemanager/filemanager_upload_files.png) |
 
     ----
 
@@ -49,7 +49,7 @@
 
     建立目錄頁面截圖 |
     --|
-    ![建立目錄頁面截圖](/images/manual/filemanager/filemanager_folder.png) |
+    ![建立目錄頁面截圖](winshop-markdown/images/manual/filemanager/filemanager_folder.png) |
 
     ----
 
@@ -63,7 +63,7 @@
 
     進入「Export」目錄的話，則會顯示「根目錄 ∕ Export」。可點擊根目錄按鈕回到最上層，也可以點擊「上層目錄」按鈕回到上一層。 |
     --|
-    ![顯示當前所在的目錄](/images/manual/filemanager/filemanager_position.png) |
+    ![顯示當前所在的目錄](winshop-markdown/images/manual/filemanager/filemanager_position.png) |
 
     ----
 
@@ -77,7 +77,7 @@
 
     重新命名介面截圖 |
     --|
-    ![重新命名介面截圖](/images/manual/filemanager/filemanager_rename.png) |
+    ![重新命名介面截圖](winshop-markdown/images/manual/filemanager/filemanager_rename.png) |
 
     ----
 
@@ -91,7 +91,7 @@
 
     顯示檔案圖片或是檔案類型 icon |
     --|
-    ![顯示檔案圖片或是檔案類型 icon](/images/manual/filemanager/filemanager_images.png) |
+    ![顯示檔案圖片或是檔案類型 icon](winshop-markdown/images/manual/filemanager/filemanager_images.png) |
 
     ----
 
@@ -100,6 +100,6 @@
 
     檔案詳細資料頁面截圖 |
     --|
-    ![檔案詳細資料頁面截圖](/images/manual/filemanager/filemanager_detail.png) |
+    ![檔案詳細資料頁面截圖](winshop-markdown/images/manual/filemanager/filemanager_detail.png) |
 
 <Footer />

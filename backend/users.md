@@ -6,7 +6,7 @@
 
 新增會員表單截圖 |
 --|
-![新增會員截圖上半部](/images/manual/users/users_add.png) |
+![新增會員截圖上半部](winshop-markdown/images/manual/users/users_add.png) |
 
 
 ### 各號碼說明
@@ -56,7 +56,7 @@
 
     開啟日期選擇器 |
     --|
-    ![開啟日期選擇器](/images/manual/users/users_add_birth.png) |
+    ![開啟日期選擇器](winshop-markdown/images/manual/users/users_add_birth.png) |
 
     ----
 
@@ -70,7 +70,7 @@
 
     展開下拉選單選擇縣市 |
     --|
-    ![下拉選單選擇](/images/manual/users/users_add_county.png) |
+    ![下拉選單選擇](winshop-markdown/images/manual/users/users_add_county.png) |
 
     ----
 
@@ -79,7 +79,7 @@
 
     展開下拉選單選擇區域 |
     --|
-    ![下拉選單選擇](/images/manual/users/users_add_region.png) |
+    ![下拉選單選擇](winshop-markdown/images/manual/users/users_add_region.png) |
 
     ----
 
@@ -94,7 +94,7 @@
 
 會員列表截圖 |
 --|
-![會員列表截圖](/images/manual/users/users_list.png) |
+![會員列表截圖](winshop-markdown/images/manual/users/users_list.png) |
 
 
 ### 各號碼說明
@@ -109,7 +109,7 @@
 
     點擊選取全部會員 |
     --|
-    ![選取全部會員](/images/manual/users/users_list_select.png) |
+    ![選取全部會員](winshop-markdown/images/manual/users/users_list_select.png) |
 
     ----
 
@@ -118,7 +118,7 @@
 
     取得資料後產生 Excel 檔案 |
     --|
-    ![產生Excel檔案](/images/manual/users/users_list_export.png) |
+    ![產生Excel檔案](winshop-markdown/images/manual/users/users_list_export.png) |
 
     ----
 
@@ -127,7 +127,7 @@
 
     開啟搜尋條件表單 |
     --|
-    ![開啟搜尋條件表單](/images/manual/users/users_list_search.png) |
+    ![開啟搜尋條件表單](winshop-markdown/images/manual/users/users_list_search.png) |
 
     ----
 
@@ -136,7 +136,7 @@
 
     選擇要顯示的欄位選項 |
     --|
-    ![開啟欄位選項下拉選單](/images/manual/users/users_list_item.png) |
+    ![開啟欄位選項下拉選單](winshop-markdown/images/manual/users/users_list_item.png) |
 
     ----
 
@@ -145,7 +145,7 @@
 
     會員列表快速按鈕 |
     --|
-    ![會員列表快速按鈕](/images/manual/users/users_list_strip.png) |
+    ![會員列表快速按鈕](winshop-markdown/images/manual/users/users_list_strip.png) |
 
 ----
 
@@ -155,6 +155,6 @@
 
 會員匯入截圖 |
 --|
-![會員匯入截圖](/images/manual/users/users_list_import.png) |
+![會員匯入截圖](winshop-markdown/images/manual/users/users_list_import.png) |
 
 <Footer />

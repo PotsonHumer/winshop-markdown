@@ -10,7 +10,7 @@
 
 語言標籤 |
 --|
-![語言標籤](/images/manual/setup_lang_tag.png) |
+![語言標籤](winshop-markdown/images/manual/setup_lang_tag.png) |
 
 ### 設定區塊說明
 
@@ -70,7 +70,7 @@
     
     例外社群|設定資料|示意圖
     --|--|--|
-    Line|設定「line.me/」後的文字|![主選單表單截圖](/images/manual/setup_line.png) |
+    Line|設定「line.me/」後的文字|![主選單表單截圖](winshop-markdown/images/manual/setup_line.png) |
     Skype|設定 Skype 的 ID ||
     Wechat|設定 Wechat 的 ID ||
     Whatsapp|設定 Whatsapp 的 ID ||
@@ -84,13 +84,13 @@
 <ModuleCheck name="menu_extend_name" isActive={false}>
 主選單表單截圖 |
 --|
-![主選單表單截圖](/images/manual/menu_top.png) |
+![主選單表單截圖](winshop-markdown/images/manual/menu_top.png) |
 </ModuleCheck>
 
 <ModuleCheck name="menu_extend_name" isActive={true}>
 主選單表單截圖 |
 --|
-![主選單表單截圖](/images/manual/menu_extend_name.png) |
+![主選單表單截圖](winshop-markdown/images/manual/menu_extend_name.png) |
 </ModuleCheck>
 
 ### 各號碼說明
@@ -107,7 +107,7 @@
 
     網站主選單範例 |
     --|
-    ![網站主選單範例](/images/manual/header.png) |
+    ![網站主選單範例](winshop-markdown/images/manual/header.png) |
     
     ----
 
@@ -132,7 +132,7 @@
 
     分類資料連結選取-1 | 分類資料連結選取-2
     --|
-    ![分類資料連結選取-1](/images/manual/menu_cate_1.png) | ![分類資料連結選取-2](/images/manual/menu_cate_2.png)
+    ![分類資料連結選取-1](winshop-markdown/images/manual/menu_cate_1.png) | ![分類資料連結選取-2](winshop-markdown/images/manual/menu_cate_2.png)
 
     ----
 
@@ -141,7 +141,7 @@
 
     選擇單頁連結範例 |
     --|
-    ![選擇單頁連結範例](/images/manual/menu_single.png) |
+    ![選擇單頁連結範例](winshop-markdown/images/manual/menu_single.png) |
 
     ----
 
@@ -166,7 +166,7 @@
 
     複製介面範例 |
     --|
-    ![複製介面範例](/images/manual/menu_copy.png) |
+    ![複製介面範例](winshop-markdown/images/manual/menu_copy.png) |
 
 </ModuleCheck>
 
@@ -182,7 +182,7 @@
     
     網站主選單範例 |
     --|
-    ![網站主選單範例](/images/manual/menu_extend_name_hover.png) |
+    ![網站主選單範例](winshop-markdown/images/manual/menu_extend_name_hover.png) |
     
     ----
 
@@ -191,7 +191,7 @@
     
     網站主選單範例 |
     --|
-    ![網站主選單範例](/images/manual/menu_extend_name_default.png) |
+    ![網站主選單範例](winshop-markdown/images/manual/menu_extend_name_default.png) |
 
     ----
 
@@ -216,7 +216,7 @@
 
     分類資料連結選取-1 | 分類資料連結選取-2
     --|
-    ![分類資料連結選取-1](/images/manual/menu_cate_1.png) | ![分類資料連結選取-2](/images/manual/menu_cate_2.png)
+    ![分類資料連結選取-1](winshop-markdown/images/manual/menu_cate_1.png) | ![分類資料連結選取-2](winshop-markdown/images/manual/menu_cate_2.png)
 
     ----
 
@@ -225,7 +225,7 @@
 
     選擇單頁連結範例 |
     --|
-    ![選擇單頁連結範例](/images/manual/menu_single.png) |
+    ![選擇單頁連結範例](winshop-markdown/images/manual/menu_single.png) |
 
     ----
 
@@ -250,7 +250,7 @@
 
     複製介面範例 |
     --|
-    ![複製介面範例](/images/manual/menu_copy.png) |
+    ![複製介面範例](winshop-markdown/images/manual/menu_copy.png) |
 </ModuleCheck>
 
 ----
@@ -267,7 +267,7 @@
 
 聯絡人資訊欄位表單截圖 |
 --|
-![聯絡人資訊欄位主選單表單截圖](/images/manual/contacts_form.png) |
+![聯絡人資訊欄位主選單表單截圖](winshop-markdown/images/manual/contacts_form.png) |
 
 ### 各號碼說明
 
@@ -286,7 +286,7 @@
 
     聯絡人資訊欄位類別截圖 |
     --|
-    ![聯絡人資訊欄位類別截圖](/images/manual/contacts_type.png) |
+    ![聯絡人資訊欄位類別截圖](winshop-markdown/images/manual/contacts_type.png) |
 
     ----
 
@@ -305,7 +305,7 @@
 
     聯絡人資訊欄位定義截圖 |
     --|
-    ![聯絡人資訊欄位定義截圖](/images/manual/contacts_mean.png) |
+    ![聯絡人資訊欄位定義截圖](winshop-markdown/images/manual/contacts_mean.png) |
 
     ----
 
@@ -324,7 +324,7 @@
 
     表單顯示切換截圖 |
     --|
-    ![表單顯示切換截圖](/images/manual/contacts_toggle.png) |
+    ![表單顯示切換截圖](winshop-markdown/images/manual/contacts_toggle.png) |
 
     ---
 
@@ -333,7 +333,7 @@
 
     預設欄位截圖 |
     --|
-    ![表單顯示切換](/images/manual/contacts_default.png) |
+    ![表單顯示切換](winshop-markdown/images/manual/contacts_default.png) |
 
     ---
 
@@ -363,7 +363,7 @@
 
 重新導向管理截圖 |
 --|
-![重新導向管理截圖](/images/manual/redirect.png) |
+![重新導向管理截圖](winshop-markdown/images/manual/redirect.png) |
 
 ### 各號碼說明
 

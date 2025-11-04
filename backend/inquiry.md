@@ -4,7 +4,7 @@
 
 詢價單管理截圖 |
 --|
-![詢價單管理截圖](/images/manual/inquiry/inquiry.png) |
+![詢價單管理截圖](winshop-markdown/images/manual/inquiry/inquiry.png) |
 
 
 ### 各號碼說明
@@ -14,7 +14,7 @@
 
     開啟搜尋條件表單 |
     --|
-    ![開啟搜尋條件表單](/images/manual/inquiry/inquiry_search.png) |
+    ![開啟搜尋條件表單](winshop-markdown/images/manual/inquiry/inquiry_search.png) |
 
     ----
 
@@ -23,7 +23,7 @@
 
     選擇要顯示的欄位選項 |
     --|
-    ![開啟欄位選項下拉選單](/images/manual/inquiry/inquiry_item.png) |
+    ![開啟欄位選項下拉選單](winshop-markdown/images/manual/inquiry/inquiry_item.png) |
 
     ----
 
@@ -32,7 +32,7 @@
 
     詢價單資料列表快速按鈕 |
     --|
-    ![詢價單資料列表快速按鈕](/images/manual/inquiry/inquiry_strip.png) |
+    ![詢價單資料列表快速按鈕](winshop-markdown/images/manual/inquiry/inquiry_strip.png) |
 
     ----
 
