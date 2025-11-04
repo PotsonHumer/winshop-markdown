@@ -27,13 +27,13 @@
 
 4.  **站台切換**  
     切換管理的站台  
-    <Icon icon="fa fa-exclamation-triangle" text="僅適用於多項網站使用者" color="warning" />。
+    **僅適用於多項網站使用者**。
 
     -----
 
 5.  **後台介面語言切換**  
     切換後台管理介面顯示語言  
-    <Icon icon="fa fa-exclamation-triangle" text="此功能可能因後台管理帳號權限不同而改變" color="warning" />。
+    **此功能可能因後台管理帳號權限不同而改變**。
 
     -----
 

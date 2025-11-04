@@ -42,7 +42,7 @@
 
     各號碼說明：
 
-    <Icon icon="fa fa-exclamation-triangle" text="圖片和影片只能擇一設定。" color="warning" />
+    **圖片和影片只能擇一設定。**
     
     | 欄位名稱 | 欄位說明 |
     |---|---|

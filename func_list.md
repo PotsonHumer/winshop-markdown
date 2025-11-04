@@ -2,7 +2,7 @@
 
 系統版本：v1.4.2-alpha
 
-<Icon icon="fa fa-exclamation-circle" text="後台功能可能因您的帳號權限而有所改變" color="info" />
+**後台功能可能因您的帳號權限而有所改變**
 
 ----
 
