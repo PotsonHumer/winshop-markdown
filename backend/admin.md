@@ -6,7 +6,7 @@
 
 新增管理員表單截圖 |
 --|
-![新增管理員表單截圖](winshop-markdown/images/manual/admin/admin_add.png) |
+![新增管理員表單截圖](/winshop-markdown/images/manual/admin/admin_add.png) |
 
 
 ### 各號碼說明
@@ -46,7 +46,7 @@
 
     權限群組展開下拉選單 |
     --|
-    ![展開權限群組列表](winshop-markdown/images/manual/admin/admin_add_permission.png) |
+    ![展開權限群組列表](/winshop-markdown/images/manual/admin/admin_add_permission.png) |
 
     ----
 
@@ -60,7 +60,7 @@
 
     可增加多組權限群組 |
     --|
-    ![增加多組權限群組](winshop-markdown/images/manual/admin/admin_add_addgroup.png) |
+    ![增加多組權限群組](/winshop-markdown/images/manual/admin/admin_add_addgroup.png) |
 
 ----
 
@@ -70,7 +70,7 @@
 
 管理員列表截圖 |
 --|
-![管理員列表截圖](winshop-markdown/images/manual/admin/admin_list.png) |
+![管理員列表截圖](/winshop-markdown/images/manual/admin/admin_list.png) |
 
 
 ### 各號碼說明
@@ -112,7 +112,7 @@
 
 8.  **<Anchor id="admin_block_2-8" text="搜尋篩選表單開啟" ordered sub>**
     點選此按鈕，會開啟搜尋篩選表單，可按照需求填入「名稱」、「Email」和「等級」來進行資料篩選。
-    ![搜尋篩選表單開啟](winshop-markdown/images/manual/admin/admin_list_search.png)
+    ![搜尋篩選表單開啟](/winshop-markdown/images/manual/admin/admin_list_search.png)
 
 ----
 
@@ -124,13 +124,13 @@
 
 聯絡信箱選擇類別截圖 |
 --|
-![聯絡信箱選擇截圖](winshop-markdown/images/manual/admin/admin_mailbox.png) |
+![聯絡信箱選擇截圖](/winshop-markdown/images/manual/admin/admin_mailbox.png) |
 
 *  選擇信箱類別後，即可針對此信箱類別做相關設定。
 
 針對信箱類別設定 |
 --|
-![信箱類別設定](winshop-markdown/images/manual/admin/admin_mailbox_setup.png) |
+![信箱類別設定](/winshop-markdown/images/manual/admin/admin_mailbox_setup.png) |
 
 
 ### 各號碼說明

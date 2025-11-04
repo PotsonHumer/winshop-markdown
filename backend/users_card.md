@@ -6,7 +6,7 @@
 
 新增會員卡表單截圖 |
 --|
-![新增會員卡截圖](winshop-markdown/images/manual/users_card/users_card_add.png) |
+![新增會員卡截圖](/winshop-markdown/images/manual/users_card/users_card_add.png) |
 
 
 ### 各號碼說明
@@ -31,7 +31,7 @@
 
     開啟日期選擇器 |
     --|
-    ![開啟日期選擇器](winshop-markdown/images/manual/users_card/users_card_add_date.png) |
+    ![開啟日期選擇器](/winshop-markdown/images/manual/users_card/users_card_add_date.png) |
 
     ----
 
@@ -46,7 +46,7 @@
 
 會員卡列表截圖 |
 --|
-![會員卡列表截圖](winshop-markdown/images/manual/users_card/users_card_list.png) |
+![會員卡列表截圖](/winshop-markdown/images/manual/users_card/users_card_list.png) |
 
 
 ### 各號碼說明
@@ -61,7 +61,7 @@
 
     批次新增會員卡表單 |
     --|
-    ![批次新增會員卡表單](winshop-markdown/images/manual/users_card/users_card_list_batch.png) |
+    ![批次新增會員卡表單](/winshop-markdown/images/manual/users_card/users_card_list_batch.png) |
 
     各號碼說明：
 
@@ -80,7 +80,7 @@
 
     開啟搜尋條件表單 |
     --|
-    ![開啟搜尋條件表單](winshop-markdown/images/manual/users_card/users_card_list_search.png) |
+    ![開啟搜尋條件表單](/winshop-markdown/images/manual/users_card/users_card_list_search.png) |
 
     ----
 
@@ -89,7 +89,7 @@
 
     會員卡列表快速按鈕 |
     --|
-    ![會員卡列表快速按鈕](winshop-markdown/images/manual/users_card/users_card_list_strip.png) |
+    ![會員卡列表快速按鈕](/winshop-markdown/images/manual/users_card/users_card_list_strip.png) |
 
     ----
 
@@ -98,7 +98,7 @@
 
     點擊選取全部會員卡 |
     --|
-    ![選取全部會員卡](winshop-markdown/images/manual/users_card/users_card_list_select.png) |
+    ![選取全部會員卡](/winshop-markdown/images/manual/users_card/users_card_list_select.png) |
 
     ----
 

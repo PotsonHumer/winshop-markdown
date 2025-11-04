@@ -4,8 +4,8 @@
 
 訂單列表截圖 |
 --|
-![訂單列表截圖](winshop-markdown/images/manual/order/order_top.png) |
-![訂單列表截圖](winshop-markdown/images/manual/order/order_bottom.png) |
+![訂單列表截圖](/winshop-markdown/images/manual/order/order_top.png) |
+![訂單列表截圖](/winshop-markdown/images/manual/order/order_bottom.png) |
 
 
 ### 各號碼說明
@@ -15,7 +15,7 @@
 
     點擊選取全部訂單 |
     --|
-    ![選取全部訂單](winshop-markdown/images/manual/order/order_select.png) |
+    ![選取全部訂單](/winshop-markdown/images/manual/order/order_select.png) |
 
     ----
 
@@ -24,7 +24,7 @@
 
     取得資料後產生 Excel 檔案 |
     --|
-    ![產生Excel檔案](winshop-markdown/images/manual/order/order_export.png) |
+    ![產生Excel檔案](/winshop-markdown/images/manual/order/order_export.png) |
 
     ----
 
@@ -33,7 +33,7 @@
 
     開啟搜尋條件表單 |
     --|
-    ![開啟搜尋條件表單](winshop-markdown/images/manual/order/order_search.png) |
+    ![開啟搜尋條件表單](/winshop-markdown/images/manual/order/order_search.png) |
 
     ----
 
@@ -42,13 +42,13 @@
 
     訂單列表快速按鈕 |
     --|
-    ![訂單列表快速按鈕](winshop-markdown/images/manual/order/order_strip.png) |
+    ![訂單列表快速按鈕](/winshop-markdown/images/manual/order/order_strip.png) |
 
     在訂單詳細管理頁面中，「訂單狀態」、「付款狀態」、「出貨狀態」、「備註」和「內部備註」欄位皆可修改。
 
     訂單詳細管理頁面截圖 |
     --|
-    ![訂單詳細管理頁面截圖](winshop-markdown/images/manual/order/order_detail.png) |
+    ![訂單詳細管理頁面截圖](/winshop-markdown/images/manual/order/order_detail.png) |
 
     各號碼說明：
 

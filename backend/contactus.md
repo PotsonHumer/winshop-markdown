@@ -4,7 +4,7 @@
 
 聯絡我們管理截圖 |
 --|
-![聯絡我們管理截圖](winshop-markdown/images/manual/contactus/contactus.png) |
+![聯絡我們管理截圖](/winshop-markdown/images/manual/contactus/contactus.png) |
 
 
 ### 各號碼說明
@@ -14,7 +14,7 @@
 
     開啟搜尋條件表單 |
     --|
-    ![開啟搜尋條件表單](winshop-markdown/images/manual/contactus/contactus_search.png) |
+    ![開啟搜尋條件表單](/winshop-markdown/images/manual/contactus/contactus_search.png) |
 
     ----
 
@@ -23,7 +23,7 @@
 
     選擇要顯示的欄位選項 |
     --|
-    ![開啟欄位選項下拉選單](winshop-markdown/images/manual/contactus/contactus_item.png) |
+    ![開啟欄位選項下拉選單](/winshop-markdown/images/manual/contactus/contactus_item.png) |
 
     ----
 
@@ -32,7 +32,7 @@
 
     聯絡我們資料列表快速按鈕 |
     --|
-    ![聯絡我們資料列表快速按鈕](winshop-markdown/images/manual/contactus/contactus_strip.png) |
+    ![聯絡我們資料列表快速按鈕](/winshop-markdown/images/manual/contactus/contactus_strip.png) |
 
     ----
 

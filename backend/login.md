@@ -7,7 +7,7 @@ WINSHOP 後台用於管理網站呈現資料，訂單、通知管理，購物相
 
 登入畫面截圖 |
 :--:|
-![登入畫面截圖](winshop-markdown/images/manual/login.png) |
+![登入畫面截圖](/winshop-markdown/images/manual/login.png) |
 請將帳號與密碼輸入畫面中欄位，並使用滑鼠點擊下方 "登入" 按鈕進行登入。 |
 
 <Footer />

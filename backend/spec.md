@@ -4,7 +4,7 @@
 
 商品規格群組管理截圖 |
 --|
-![商品規格群組管理截圖](winshop-markdown/images/manual/spec/spec_add_group.png) |
+![商品規格群組管理截圖](/winshop-markdown/images/manual/spec/spec_add_group.png) |
 
 ### 各號碼說明
 
@@ -35,7 +35,7 @@
 
 點擊「請先儲存」按鈕後畫面截圖 |
 --|
-![商品規格群組管理儲存後截圖](winshop-markdown/images/manual/spec/spec_list.png) |
+![商品規格群組管理儲存後截圖](/winshop-markdown/images/manual/spec/spec_list.png) |
 
 6.  **<Anchor id="spec_block_2-1" text="商品規格項目管理按鈕" ordered sub />**  
     點擊可進入規格項目管理頁面。
@@ -44,7 +44,7 @@
 
 點擊「商品規格項目管理」按鈕後，進入規格項目管理頁面截圖 |
 --|
-![商品規格群組管理進入項目頁面截圖](winshop-markdown/images/manual/spec/spec_add_list.png) |
+![商品規格群組管理進入項目頁面截圖](/winshop-markdown/images/manual/spec/spec_add_list.png) |
 
 7.  **<Anchor id="spec_block_3-1" text="增加規格項目按鈕" ordered sub />**  
     點擊建立當前規格群組中的規格項目。
@@ -53,7 +53,7 @@
 
 新增商品規格項目資料後截圖 |
 --|
-![設定商品規格項目資料截圖](winshop-markdown/images/manual/spec/spec_setup_list.png) |
+![設定商品規格項目資料截圖](/winshop-markdown/images/manual/spec/spec_setup_list.png) |
 
 ### 各號碼說明
 
@@ -99,7 +99,7 @@
 
 設定完規格項目後截圖 |
 --|
-![設定完規格項目後截圖](winshop-markdown/images/manual/spec/spec_save_list.png) |
+![設定完規格項目後截圖](/winshop-markdown/images/manual/spec/spec_save_list.png) |
 
 16.  **<Anchor id="spec_block_5-1" text="儲存按鈕" ordered sub />**    
     點擊可儲存全部的規格項目，包含建立、修改、刪除等的規格項目。

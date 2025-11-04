@@ -6,8 +6,8 @@
 
 新增權限群組表單截圖 |
 --|
-![新增權限群組截圖上半部](winshop-markdown/images/manual/permission/permission_add_top.png) |
-![新增權限群組截圖下半部](winshop-markdown/images/manual/permission/permission_add_bottom.png) |
+![新增權限群組截圖上半部](/winshop-markdown/images/manual/permission/permission_add_top.png) |
+![新增權限群組截圖下半部](/winshop-markdown/images/manual/permission/permission_add_bottom.png) |
 
 
 ### 各號碼說明
@@ -19,7 +19,7 @@
 
 2.  **<Anchor id="permission_block_1-2" text="等級" ordered sub />**  
     設定群組的等級，可依照需求選擇「基本」或是「站台」。
-    ![下拉選擇權限群組等級](winshop-markdown/images/manual/permission/permission_add_level.png)
+    ![下拉選擇權限群組等級](/winshop-markdown/images/manual/permission/permission_add_level.png)
 
     ----
 
@@ -56,7 +56,7 @@
 9.  **<Anchor id="permission_block_1-9" text="資料模組權限設定" ordered sub />**  
     可依照需求針對各個資料模組設定權限等級。
 
-    ![下拉設定資料模組權限等級](winshop-markdown/images/manual/permission/permission_add_data.png)
+    ![下拉設定資料模組權限等級](/winshop-markdown/images/manual/permission/permission_add_data.png)
      
     *  權限等級說明：
 
@@ -76,7 +76,7 @@
 
 權限群組列表截圖 |
 --|
-![權限群組列表截圖](winshop-markdown/images/manual/permission/permission_list.png) |
+![權限群組列表截圖](/winshop-markdown/images/manual/permission/permission_list.png) |
 
 
 ### 各號碼說明
@@ -108,6 +108,6 @@
 
 6.  **<Anchor id="permission_block_2-6" text="搜尋篩選表單開啟" ordered sub />**  
     點選此按鈕，會開啟搜尋篩選表單，可按照需求填入「名稱」、「等級」和「所屬站台」來進行資料篩選。
-    ![搜尋篩選表單開啟](winshop-markdown/images/manual/permission/permission_list_search.png)
+    ![搜尋篩選表單開啟](/winshop-markdown/images/manual/permission/permission_list_search.png)
 
 <Footer />

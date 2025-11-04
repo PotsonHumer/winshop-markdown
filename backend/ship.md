@@ -6,7 +6,7 @@
 
 運費管理截圖 |
 --|
-![新增運費截圖](winshop-markdown/images/manual/ship/ship_add.png) |
+![新增運費截圖](/winshop-markdown/images/manual/ship/ship_add.png) |
 
 ### 各號碼說明
 
@@ -25,7 +25,7 @@
 
     點擊按鈕後，新增一筆物流搭配。各號碼說明如下|
     --|
-    ![新增物流搭配截圖]](winshop-markdown/images/manual/ship/ship_add_logistics.png) |    
+    ![新增物流搭配截圖]](/winshop-markdown/images/manual/ship/ship_add_logistics.png) |    
 
     各號碼說明：
 
@@ -43,7 +43,7 @@
 
     點擊按鈕後，新增一筆運費費用。各號碼說明如下|
     --|
-    ![新增運費費用截圖]](winshop-markdown/images/manual/ship/ship_add_price.png) |    
+    ![新增運費費用截圖]](/winshop-markdown/images/manual/ship/ship_add_price.png) |    
 
     各號碼說明：
 
@@ -65,7 +65,7 @@
 
 運費管理截圖 |
 --|
-![運費管理截圖](winshop-markdown/images/manual/ship/ship_list.png) |
+![運費管理截圖](/winshop-markdown/images/manual/ship/ship_list.png) |
 
 ### 各號碼說明
 
@@ -84,7 +84,7 @@
 
     點擊按鈕後，跳轉到更新運費資料頁面|
     --|
-    ![更新運費資料截圖]](winshop-markdown/images/manual/ship/ship_update.png) | 
+    ![更新運費資料截圖]](/winshop-markdown/images/manual/ship/ship_update.png) | 
 
     ----
 
@@ -97,7 +97,7 @@
 
 運費管理截圖 |
 --|
-![運費管理截圖](winshop-markdown/images/manual/ship/ship_spec.png) |
+![運費管理截圖](/winshop-markdown/images/manual/ship/ship_spec.png) |
 
 ### 各號碼說明
 

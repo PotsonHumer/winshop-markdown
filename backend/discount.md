@@ -4,7 +4,7 @@
 
 折價管理設定截圖 |
 --|
-![折價管理設定截圖](winshop-markdown/images/manual/discount/discount.png) |
+![折價管理設定截圖](/winshop-markdown/images/manual/discount/discount.png) |
 
 
 ### 各號碼說明
@@ -29,7 +29,7 @@
 
     開啟日期及時間選擇器 |
     --|
-    ![開啟日期及時間選擇器](winshop-markdown/images/manual/discount/discount_time.png) |
+    ![開啟日期及時間選擇器](/winshop-markdown/images/manual/discount/discount_time.png) |
 
     ----
 
@@ -63,7 +63,7 @@
 
     商品群組頁面截圖 |
     --|
-    ![商品群組頁面截圖](winshop-markdown/images/manual/discount/discount_select.png) |
+    ![商品群組頁面截圖](/winshop-markdown/images/manual/discount/discount_select.png) |
 
     各號碼說明：
 

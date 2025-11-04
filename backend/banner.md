@@ -6,13 +6,13 @@
 
 橫幅廣告模組截圖 |
 --|
-![橫幅廣告模組截圖](winshop-markdown/images/manual/banner/banner.png) |
+![橫幅廣告模組截圖](/winshop-markdown/images/manual/banner/banner.png) |
 
 *  選擇模組後，即可針對此模組設定橫幅廣告。
 
 針對模組設定橫幅 |
 --|
-![針對模組設定橫幅](winshop-markdown/images/manual/banner/banner_list.png) |
+![針對模組設定橫幅](/winshop-markdown/images/manual/banner/banner_list.png) |
 
 ### 各號碼說明
 
@@ -23,7 +23,7 @@
     <ModuleCheck name="banner_video" isActive={false}>
     建立橫幅廣告介面 |
     --|
-    ![建立橫幅廣告介面](winshop-markdown/images/manual/banner/banner_edit.png) |
+    ![建立橫幅廣告介面](/winshop-markdown/images/manual/banner/banner_edit.png) |
 
     各號碼說明：
 
@@ -40,8 +40,8 @@
     <ModuleCheck name="banner_video" isActive={true}>
     建立橫幅廣告介面 |
     --|
-    ![建立橫幅廣告介面](winshop-markdown/images/manual/banner/banner_video_top.png) |
-    ![建立橫幅廣告介面](winshop-markdown/images/manual/banner/banner_video_bottom.png) |
+    ![建立橫幅廣告介面](/winshop-markdown/images/manual/banner/banner_video_top.png) |
+    ![建立橫幅廣告介面](/winshop-markdown/images/manual/banner/banner_video_bottom.png) |
 
     各號碼說明：
 

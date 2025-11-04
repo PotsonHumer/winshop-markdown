@@ -4,8 +4,8 @@
 
 贈品管理截圖 |
 --|
-![贈品管理截圖上半部](winshop-markdown/images/manual/gift/gift_top.png) |
-![贈品管理截圖下半部](winshop-markdown/images/manual/gift/gift_bottom.png) |
+![贈品管理截圖上半部](/winshop-markdown/images/manual/gift/gift_top.png) |
+![贈品管理截圖下半部](/winshop-markdown/images/manual/gift/gift_bottom.png) |
 
 ### 各號碼說明
 
@@ -34,7 +34,7 @@
 
     賦予商品選擇 |
     --|
-    ![賦予商品選擇截圖](winshop-markdown/images/manual/gift/gift_give.png) |
+    ![賦予商品選擇截圖](/winshop-markdown/images/manual/gift/gift_give.png) |
 
     ----
 

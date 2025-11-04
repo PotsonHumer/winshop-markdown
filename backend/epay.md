@@ -6,7 +6,7 @@
 
 金流設定截圖 |
 --|
-![金流設定截圖](winshop-markdown/images/manual/epay/epay_setup.png) |
+![金流設定截圖](/winshop-markdown/images/manual/epay/epay_setup.png) |
 
 
 ### 各號碼說明
@@ -16,7 +16,7 @@
 
     開啟金流系統選單 |
     --|
-    ![開啟金流系統選單](winshop-markdown/images/manual/epay/epay_setup_system.png) |
+    ![開啟金流系統選單](/winshop-markdown/images/manual/epay/epay_setup_system.png) |
 
     ----
 
@@ -41,7 +41,7 @@
 
 付款管理截圖 |
 --|
-![付款管理截圖](winshop-markdown/images/manual/epay/epay_pay.png) |
+![付款管理截圖](/winshop-markdown/images/manual/epay/epay_pay.png) |
 
 
 ### 各號碼說明
