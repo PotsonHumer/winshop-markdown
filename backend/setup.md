@@ -21,7 +21,7 @@
     設定金流相關聯絡資訊，以利交易時使用。
 
 *   結構化資料設定  
-    <Blank href="https://support.google.com/webmasters/answer/3069489?hl=zh-Hant" text="結構化資料" />基本設定；  
+    <a href="https://support.google.com/webmasters/answer/3069489?hl=zh-Hant" />結構化資料</a>基本設定；  
     WINSHOP 系統會自動產生結構化資料，此處設定相關基本資訊。
 
     | 欄位名稱 | 是否必填 | 預設值 | 欄位說明 |
@@ -33,9 +33,9 @@
 
     | 欄位名稱 | 是否必填 | 預設值 | 欄位說明 |
     |---|:---:|:---:|---|
-    | 網站中繼資料 | 否 | 無 | 提供管理者增加客製化的中繼資料；<Blank href="https://support.google.com/webmasters/answer/79812?hl=zh-Hant" text="查看 Google 說明">。<small>(此欄位可能因您的管理員帳號權限而有所不同)</small> |
-    | Google Analytics | 否 | 無 | 提供管理者增加 Google Analytics；<Blank href="https://support.google.com/analytics/?hl=zh-Hant" text="查看 Google 說明">。<small>(此欄位可能因您的管理員帳號權限而有所不同)</small> |
-    | Google Ads | 否 | 無 | 提供管理者增加 Google Ads；<Blank href="https://support.google.com/google-ads/?hl=zh-Hant" text="查看 Google 說明">。<small>(此欄位可能因您的管理員帳號權限而有所不同)</small> |
+    | 網站中繼資料 | 否 | 無 | 提供管理者增加客製化的中繼資料；<a href="https://support.google.com/webmasters/answer/79812?hl=zh-Hant">查看 Google 說明</a>。<small>(此欄位可能因您的管理員帳號權限而有所不同)</small> |
+    | Google Analytics | 否 | 無 | 提供管理者增加 Google Analytics；<a href="https://support.google.com/analytics/?hl=zh-Hant">查看 Google 說明</a>。<small>(此欄位可能因您的管理員帳號權限而有所不同)</small> |
+    | Google Ads | 否 | 無 | 提供管理者增加 Google Ads；<a href="https://support.google.com/google-ads/?hl=zh-Hant">查看 Google 說明</a>。<small>(此欄位可能因您的管理員帳號權限而有所不同)</small> |
     | 站台 Logo 圖片 | 否 | 無 | 網站 Logo 圖片，建議填寫 |
     | 站台手機版 Logo | 否 | 無 | 網站於手機解析度下顯示的 Logo，如不設定則沿用 "站台 Logo 圖片" |
     | 上方選單下拉 | 否 | 停用 | 網站主選單顯示下拉次選單切換 |
@@ -366,8 +366,8 @@
 
 2.  **導向類型**  
     設定使用 301 轉址或 302 轉址，有關說明請參考以下文章：  
-    <Blank href="https://zh.wikipedia.org/wiki/HTTP_301" text="HTTP 301 維基百科" /><br />
-    <Blank href="https://zh.wikipedia.org/wiki/HTTP_302" text="HTTP 302 維基百科" />
+    <a href="https://zh.wikipedia.org/wiki/HTTP_301">HTTP 301 維基百科</a><br />
+    <a href="https://zh.wikipedia.org/wiki/HTTP_302">HTTP 302 維基百科</a>
 
     ----
 
