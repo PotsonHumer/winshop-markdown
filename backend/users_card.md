@@ -4,9 +4,9 @@
 
 新增會員卡，並設定相關資訊。
 
-新增會員卡表單截圖 |
---|
-![新增會員卡截圖](/winshop-markdown/images/manual/users_card/users_card_add.png) |
+| 新增會員卡表單截圖 |
+|---|
+| ![新增會員卡截圖](/winshop-markdown/images/manual/users_card/users_card_add.png) |
 
 
 ### 各號碼說明
@@ -29,9 +29,9 @@
 4.  **過期日期**  
     設定會員卡的過期日期，表示會員卡的有效期限。
 
-    開啟日期選擇器 |
-    --|
-    ![開啟日期選擇器](/winshop-markdown/images/manual/users_card/users_card_add_date.png) |
+    | 開啟日期選擇器 |
+    |---|
+    | ![開啟日期選擇器](/winshop-markdown/images/manual/users_card/users_card_add_date.png) |
 
     ----
 
@@ -44,9 +44,9 @@
 
 將已有的全部會員卡列表顯示。
 
-會員卡列表截圖 |
---|
-![會員卡列表截圖](/winshop-markdown/images/manual/users_card/users_card_list.png) |
+| 會員卡列表截圖 |
+|---|
+| ![會員卡列表截圖](/winshop-markdown/images/manual/users_card/users_card_list.png) |
 
 
 ### 各號碼說明
@@ -59,50 +59,48 @@
 2.  **批次新增按鈕**  
     點擊此按鈕，可開啟批次新增會員卡表單，能夠一次建立多張會員卡。
 
-    批次新增會員卡表單 |
-    --|
-    ![批次新增會員卡表單](/winshop-markdown/images/manual/users_card/users_card_list_batch.png) |
+    | 批次新增會員卡表單 |
+    |---|
+    | ![批次新增會員卡表單](/winshop-markdown/images/manual/users_card/users_card_list_batch.png) |
 
     各號碼說明：
 
-    欄位名稱|欄位說明 |
-    --|--|
-    1.卡號前綴|批次建立的所有卡號的開頭字串 |
-    2.起始卡號|批次建立的第一張卡號號碼（會加在卡號前綴後面） |
-    3.結束卡號|批次建立的最後一張卡號號碼（會加在卡號前綴後面） |
-    4.過期日期|功能和設定方式同新增會員卡欄位（[按此前往說明](#users_card_block_1-4)） |
-    5.儲存|儲存則建立批次資料 |
+    | 欄位名稱 | 欄位說明 |
+    |---|---|
+    | 1.卡號前綴 | 批次建立的所有卡號的開頭字串 |
+    | 2.起始卡號 | 批次建立的第一張卡號號碼（會加在卡號前綴後面） |
+    | 3.結束卡號 | 批次建立的最後一張卡號號碼（會加在卡號前綴後面） |
+    | 4.過期日期 | 功能和設定方式同新增會員卡欄位（[按此前往說明](#users_card_block_1-4)） |
+    | 5.儲存 | 儲存則建立批次資料 |
 
     ----
 
 3.  **開啟搜尋條件表單按鈕**  
     點擊此按鈕，將搜尋條件表單展開。可依照「會員卡號」、「指定會員」和「過期日期」等條件來搜尋會員卡。
 
-    開啟搜尋條件表單 |
-    --|
-    ![開啟搜尋條件表單](/winshop-markdown/images/manual/users_card/users_card_list_search.png) |
+    | 開啟搜尋條件表單 |
+    |---|
+    | ![開啟搜尋條件表單](/winshop-markdown/images/manual/users_card/users_card_list_search.png) |
 
     ----
 
 4.  **會員卡資料列表**  
     條列式顯示會員卡資料。點擊「指定會員」按鈕可以進入會員資料編輯介面；「是否啟用」欄位開關可以快速切換啟用或停用狀態；點擊「編輯」按鈕可以進入會員卡資料編輯介面；點擊「刪除」按鈕能夠刪除所選會員卡。
 
-    會員卡列表快速按鈕 |
-    --|
-    ![會員卡列表快速按鈕](/winshop-markdown/images/manual/users_card/users_card_list_strip.png) |
+    | 會員卡列表快速按鈕 |
+    |---|
+    | ![會員卡列表快速按鈕](/winshop-markdown/images/manual/users_card/users_card_list_strip.png) |
 
     ----
 
 5.  **全選按鈕**  
     點擊此按鈕，可快速選取全部會員卡項目，或是全部不選取。
 
-    點擊選取全部會員卡 |
-    --|
-    ![選取全部會員卡](/winshop-markdown/images/manual/users_card/users_card_list_select.png) |
+    | 點擊選取全部會員卡 |
+    |---|
+    | ![選取全部會員卡](/winshop-markdown/images/manual/users_card/users_card_list_select.png) |
 
     ----
 
 6.  **批次刪除按鈕**  
     選取多個會員卡項目後點擊此按鈕，可以一次刪除所勾選的所有會員卡。
-
-<Footer />

@@ -4,10 +4,10 @@
 
 網站新增權限群組介面，可自行建立權限群組，提供給相關管理員套用。
 
-新增權限群組表單截圖 |
---|
-![新增權限群組截圖上半部](/winshop-markdown/images/manual/permission/permission_add_top.png) |
-![新增權限群組截圖下半部](/winshop-markdown/images/manual/permission/permission_add_bottom.png) |
+| 新增權限群組表單截圖 |
+|---|
+| ![新增權限群組截圖上半部](/winshop-markdown/images/manual/permission/permission_add_top.png) |
+| ![新增權限群組截圖下半部](/winshop-markdown/images/manual/permission/permission_add_bottom.png) |
 
 
 ### 各號碼說明
@@ -60,13 +60,13 @@
      
     *  權限等級說明：
 
-        等級|賦予權限|
-        --|--|--|
-        LV0：無權限|無權限|
-        LV1：讀取權限|僅可讀取|
-        LV2：修改權限|可讀取、修改|
-        LV3：新增權限|可讀取、修改、新增|
-        LV4：刪除權限|可讀取、修改、新增和刪除(最高權限)|
+        | 等級 | 賦予權限 |
+        |---|---|
+        | LV0：無權限 | 無權限 |
+        | LV1：讀取權限|僅可讀取|
+        | LV2：修改權限|可讀取、修改|
+        | LV3：新增權限|可讀取、修改、新增|
+        | LV4：刪除權限|可讀取、修改、新增和刪除(最高權限)|
 
 ----
 
@@ -74,9 +74,9 @@
 
 將已有的全部權限群組條列顯示。
 
-權限群組列表截圖 |
---|
-![權限群組列表截圖](/winshop-markdown/images/manual/permission/permission_list.png) |
+| 權限群組列表截圖 |
+|---|
+| ![權限群組列表截圖](/winshop-markdown/images/manual/permission/permission_list.png) |
 
 
 ### 各號碼說明
@@ -109,5 +109,3 @@
 6.  **搜尋篩選表單開啟**  
     點選此按鈕，會開啟搜尋篩選表單，可按照需求填入「名稱」、「等級」和「所屬站台」來進行資料篩選。
     ![搜尋篩選表單開啟](/winshop-markdown/images/manual/permission/permission_list_search.png)
-
-<Footer />

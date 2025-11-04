@@ -1,8 +1,8 @@
 # 後台首頁
 
-後台首頁截圖 |
---|
-![後台首頁截圖](/winshop-markdown/images/manual/backend_home.png) |
+| 後台首頁截圖 |
+|---|
+| ![後台首頁截圖](/winshop-markdown/images/manual/backend_home.png) |
 
 ## 各按鈕 / 區塊號碼說明
 
@@ -14,9 +14,9 @@
 2.  **功能選單縮放**  
     滑鼠點擊可展開或縮小功能選單。 <small>(見下圖)</small>
 
-    展開畫面 | 縮小畫面
-    --|--
-    ![展開畫面](/winshop-markdown/images/manual/menu_expand.png) | ![縮小畫面](/winshop-markdown/images/manual/menu_narrow.png)
+    | 展開畫面 | 縮小畫面 |
+    |---|---|
+    | ![展開畫面](/winshop-markdown/images/manual/menu_expand.png) | ![縮小畫面](/winshop-markdown/images/manual/menu_narrow.png) |
 
     -----
 
@@ -40,18 +40,18 @@
 6.  **即時通知**  
     系統自動即時通知訊息，滑鼠點擊可查看更多訊息。 <small>(見下圖)</small>
 
-    即時通知展開截圖 |
-    --|
-    ![即時通知展開截圖](/winshop-markdown/images/manual/backend_notify.png) |
+    | 即時通知展開截圖 |
+    |---|
+    | ![即時通知展開截圖](/winshop-markdown/images/manual/backend_notify.png) |
 
     -----
 
 7.  **管理員顯示**  
     提示目前登入的管理員帳號，滑鼠點擊後展開面板，內有個人資訊編輯頁、登出連結按鈕。 <small>(見下圖)</small>
 
-    展開面板截圖 |
-    --|
-    ![展開面板截圖](/winshop-markdown/images/manual/backend_admin.png) |
+    | 展開面板截圖 |
+    |---|
+    | ![展開面板截圖](/winshop-markdown/images/manual/backend_admin.png) |
 
     -----
 
@@ -61,8 +61,6 @@
 9.  **資訊區塊縮放**  
     滑鼠點擊按鈕後可更改訊息區塊寬度。 <small>(見下圖)</small>
 
-    訊息區塊互動按鈕 |
-    --|
-    ![訊息區塊互動按鈕](/winshop-markdown/images/manual/backend_info.gif) |
-
-<Footer />
+    | 訊息區塊互動按鈕 |
+    |---|
+    | ![訊息區塊互動按鈕](/winshop-markdown/images/manual/backend_info.gif) |
